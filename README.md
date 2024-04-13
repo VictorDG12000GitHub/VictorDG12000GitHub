@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center"> VictorDG12000GitHub </h1>
+<p>Programing languages:</p>
 
-<!--
-**VictorDG12000GitHub/VictorDG12000GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logo=java&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=java&logo=pytohn&logoColor=black&labelColor=aaaaaa)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logoColor=F7DF1E)]()
+<p>Markup languages:</p>
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Databases:</p>
+
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<p>Other:</p>
+
+<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Statistics </b>
+<a href="https://github.com/VictorDG12000/">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorDG12000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=1,000000,345345" width="450"/>
+
+</a>
