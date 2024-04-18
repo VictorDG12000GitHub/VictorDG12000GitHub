@@ -1,5 +1,8 @@
 <h1 align="center"> VictorDG12000GitHub </h1>
+
+<p>Files for learning and others. In english, and some of them also in spanish. Archivos para aprender y otros.En inglés y algunos tambien en español.</p>
 <p>Programing languages:</p>
+
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=java&logo=pytohn&logoColor=black&labelColor=aaaaaa)]()
