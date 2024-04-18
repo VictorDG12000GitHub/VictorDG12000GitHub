@@ -19,7 +19,7 @@
 
 <p>Databases:</p>
 
-<img src="https://img.shields.io/badge/sql-4479B1.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sql-0009B1.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <p>Other:</p>
