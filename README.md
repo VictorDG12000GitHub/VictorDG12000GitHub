@@ -19,12 +19,12 @@
 
 <p>Databases:</p>
 
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white"/>
 
 
 <p>Other:</p>
 
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-22216b?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-21785b?style=for-the-badge&logo=Splunk&logoColor=white"/>
