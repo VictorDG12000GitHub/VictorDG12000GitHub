@@ -7,7 +7,8 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=java&logo=pytohn&logoColor=black&labelColor=aaaaaa)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logoColor=F7DF1E)]()
-[![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logoColor=F7DF1E)]()
+<img src="https://img.shields.io/badge/C-21416b?style=for-the-badge&logo=C&logoColor=white"/>
+
 <p>Markup languages:</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
