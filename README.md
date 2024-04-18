@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/Git-22216b?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-21785b?style=for-the-badge&logo=Splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-AA634b?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-AC600a?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+
 
 
 
