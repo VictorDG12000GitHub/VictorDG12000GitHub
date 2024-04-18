@@ -8,7 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=java&logo=pytohn&logoColor=black&labelColor=aaaaaa)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logoColor=F7DF1E)]()
 <img src="https://img.shields.io/badge/-21416b?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/++-21416b?style=for-the-badge&logo=C&logoColor=red"/>
+<img src="https://img.shields.io/badge/++-21996b?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/#-21416b?style=for-the-badge&logo=C&logoColor=white"/>
 
 
