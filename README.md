@@ -25,6 +25,8 @@
 
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-21416b?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-21416b?style=for-the-badge&logo=Splunk&logoColor=white"/>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Statistics </b>
 <a href="https://github.com/VictorDG12000/">
