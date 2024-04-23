@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/sharp-25616b?style=for-the-badge&logo=C&logoColor=white"/>
 
 
-<p>Markup languages:</p>
+<p>Markup languages and style:</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p>Other:</p>
+<p>Others:</p>
 
 <p>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
