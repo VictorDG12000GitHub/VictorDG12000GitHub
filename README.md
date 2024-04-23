@@ -1,7 +1,7 @@
 <h1 align="center"> VictorDG12000GitHub </h1>
 
 <p>Files for learning and others. In english (EN), and some of them also in spanish (ES). 
-  Archivos para aprender y otros. En inglés (EN) y algunos tambien en español (ES).</p>
+  <br/>Archivos para aprender y otros. En inglés (EN) y algunos tambien en español (ES).</p>
 <p>Programing languages:</p>
 
 
