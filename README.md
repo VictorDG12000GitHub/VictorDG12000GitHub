@@ -40,5 +40,5 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Statistics </b>
 <a href="https://github.com/VictorDG12000/">
 
-![VictorDG12000GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordg12000github&include_all_commits=true&theme=shades-of-purple&show_icons=true)
+![VictorDG12000GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordg12000github&include_all_commits=true&theme=vue&show_icons=true)
 </a>
