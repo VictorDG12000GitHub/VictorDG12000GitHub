@@ -39,7 +39,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Statistics </b>
 <a href="https://github.com/VictorDG12000/">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorDG12000GitHub&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=1,000000,345345" width="450"/>
 
 ![VictorDG12000GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordg12000github&include_all_commits=true&theme=Dark&show_icons=true)
 </a>
