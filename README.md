@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/Splunk-21785b?style=for-the-badge&logo=Splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-AA634b?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Salesforce-AC600a?style=for-the-badge&logo=Salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-Studio-AC600a?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Forge-AC600a?style=for-the-badge&logo=Forge&logoColor=white"/>
 </p>
 
 
