@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-yellow)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)]()
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/-21416b?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-cian"/>
 <img src="https://img.shields.io/badge/++-21996b?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/sharp-25616b?style=for-the-badge&logo=C&logoColor=white"/>
 
