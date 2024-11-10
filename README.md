@@ -10,8 +10,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)]()
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-blue?logo=C"/>
-<img src="https://img.shields.io/badge/C++-blue?logo=C++"/>
-<img src="https://img.shields.io/badge/sharp-25616b?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-blue?logo=Cpp"/>
+<img src="https://img.shields.io/badge/sharp-25616b?logo=cs"/>
 
 
 <p>Markup languages and style:</p>
