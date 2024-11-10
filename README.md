@@ -17,13 +17,13 @@
 <p>Markup languages and style:</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)
 
 <p>Databases:</p>
 
 <p>
-<img src="https://img.shields.io/badge/sql-0009B1.svg?style=for-the-badge&logo=sql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sql-0009B1.svg?logo=sql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white"/>
 </p>
 
 <p>Others:</p>
