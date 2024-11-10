@@ -5,7 +5,7 @@
 <p>Programing languages:</p>
 
 
-[![Java](https://img.shields.io/badge/Java-CC3489?logo=openjdk)]()
+[![Java](https://img.shields.io/badge/Java-AC3489?logo=openjdk)]()
 [![Python](https://img.shields.io/badge/Python-yellow)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)]()
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"/>
