@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/ C-blue?logo=C"/>
 <img src="https://img.shields.io/badge/C++-333333?logo=c%2B%2B&"/>
-<img src="https://img.shields.io/badge/Csharp-25616b?logo=CShrp"/>
+<img src="https://img.shields.io/badge/Csharp-25616b?logo=c%2B%2B&"/>
 
 
 <p>Markup languages and style:</p>
