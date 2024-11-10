@@ -16,7 +16,7 @@
 
 <p>Markup languages and style:</p>
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)
 
 <p>Databases:</p>
