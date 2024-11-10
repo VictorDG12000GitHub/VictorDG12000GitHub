@@ -9,9 +9,9 @@
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)]()
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/ c-blue?logo=C"/>
-<img src="https://img.shields.io/badge/C++-blue?logo=Cpp"/>
-<img src="https://img.shields.io/badge/sharp-25616b?logo=cs"/>
+<img src="https://img.shields.io/badge/ C-blue?logo=C"/>
+<img src="https://img.shields.io/badge/C++-333333?logo=CPP"/>
+<img src="https://img.shields.io/badge/sharp-25616b?logo=CS"/>
 
 
 <p>Markup languages and style:</p>
