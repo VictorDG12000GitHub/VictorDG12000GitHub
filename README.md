@@ -22,7 +22,6 @@
 <p>Databases:</p>
 
 <p>
-<img src="https://img.shields.io/badge/SQL-0009B1.svg"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?logo=mysql&logoColor=white"/>
 </p>
 
