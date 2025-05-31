@@ -7,7 +7,7 @@
 
 [![Java](https://img.shields.io/badge/Java-A17770?logo=openjdk)]()
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python)]()
-<img src="https://img.shields.io/badge/C-blue?logo=C"/>
+<img src="https://img.shields.io/badge/C-blue?logo="/>
 <!-- [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)]()-->
 <!--<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/C++-333333?logo=c%2B%2B&"/>-->
